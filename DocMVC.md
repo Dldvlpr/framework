@@ -79,3 +79,6 @@ then, run it to open it on your localhot :
 docker run -i -t --name simple-mvc  -p 80:80 simple-mvc-container
 ```
 
+
+1 tout les controlleurs doivent heriter d'abstact controlleurs tout les fonctions du controlleurs doivent
+renvoyer une chaine de caracter
